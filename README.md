@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djRrNzI3anBjdTJ2OHlhNDIxaW0zNWg1ZGg3cG9ydHQ2NzR5bHo3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9XeR2SAyL9YixCYN0b/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djRrNzI3anBjdTJ2OHlhNDIxaW0zNWg1ZGg3cG9ydHQ2NzR5bHo3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9XeR2SAyL9YixCYN0b/giphy.gif" width="180"/>
 
 # Hello, I'm Bahaa 👋
 
